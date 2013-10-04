@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/futoase/underground.png?branch=support-test)](https://travis-ci.org/futoase/underground)
+
 underground
 ===========
 
