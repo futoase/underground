@@ -38,6 +38,11 @@ func main() {
 > Welcome to underground...
 ```
 
+Documents
+---------
+
+http://godoc.org/github.com/futoase/underground
+
 License
 --------
 
